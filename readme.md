@@ -1,3 +1,3 @@
-#Prime - Custom Spigot Whitelist Plugin
+# Prime - Custom Spigot Whitelist Plugin
 
 By MrKhawaja
