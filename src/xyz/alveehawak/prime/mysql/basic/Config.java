@@ -31,7 +31,7 @@ public class Config {
         set("database", "", true);
         set("port", "3306", true);
         set("use_SSL", false, true);
-        set("table", "prime", false);
+        set("table", "prime", true);
     }
 
     public static void reload() {
